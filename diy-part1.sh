@@ -26,4 +26,5 @@
 # echo 'src-git singbox https://github.com/kenzok8/small-package/tree/main/sing-box' >>feeds.conf.default
 # echo 'src-git smartdns https://github.com/kenzok8/small-package/tree/main/smartdns' >>feeds.conf.default
 # echo 'src-git lucismartdns https://github.com/kenzok8/small-package/tree/main/luci-app-smartdns' >>feeds.conf.default
-echo 'src-git samll https://github.com/kenzok8/small-package' >>feeds.conf.default 
+echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default 
+echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default 
